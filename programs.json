@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mit-aip",
+    "wrike": "MO-AIP",
+    "cohort": "August 15, 2026",
+    "landing": 3150,
+    "mdr": 8,
+    "net": 2898,
+    "thriveCode": "THRIVE200"
+  },
+  {
+    "id": "mit-aisl",
+    "wrike": "MO-LAI",
+    "cohort": "August 12, 2026",
+    "landing": 7750,
+    "mdr": 8,
+    "net": 7130
+  }
+]
