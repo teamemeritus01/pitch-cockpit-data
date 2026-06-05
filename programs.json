@@ -5,7 +5,6 @@
     "cohort": "June 25, 2026",
     "landing": 3150,
     "mdr": 8,
-    "net": 2898,
     "thriveCode": "THRIVE200"
   },
   {
@@ -14,7 +13,6 @@
     "cohort": "June 23, 2026",
     "landing": 7750,
     "mdr": 8,
-    "net": 7130,
     "thriveCode": "THRIVE200"
   },
   {
@@ -23,7 +21,6 @@
     "cohort": "June 23, 2026",
     "landing": 9450,
     "mdr": 8,
-    "net": 8694,
     "thriveCode": "THRIVE200"
   },
   {
@@ -32,7 +29,6 @@
     "cohort": "June 25, 2026",
     "landing": 8950,
     "mdr": 8,
-    "net": 8234,
     "thriveCode": "THRIVE200"
   },
   {
@@ -41,7 +37,6 @@
     "cohort": "September 23, 2026",
     "landing": 3100,
     "mdr": 10,
-    "net": 2635,
     "thriveCode": "NA"
   },
   {
@@ -50,7 +45,6 @@
     "cohort": "August 20, 2026",
     "landing": 4950,
     "mdr": 10,
-    "net": 4455,
     "thriveCode": "THRIVE200"
   },
   {
@@ -59,7 +53,6 @@
     "cohort": "August 6, 2026",
     "landing": 7550,
     "mdr": 11,
-    "net": 6719,
     "thriveCode": "THRIVE200"
   },
   {
@@ -68,7 +61,6 @@
     "cohort": "June 25, 2026",
     "landing": 6000,
     "mdr": 8,
-    "net": 5520,
     "thriveCode": "THRIVE200"
   },
   {
@@ -77,7 +69,6 @@
     "cohort": "June 25, 2026",
     "landing": 4795,
     "mdr": 8,
-    "net": 4411,
     "thriveCode": "THRIVE200"
   },
   {
@@ -86,7 +77,6 @@
     "cohort": "June 25, 2026",
     "landing": 3680,
     "mdr": 8,
-    "net": 3386,
     "thriveCode": "THRIVE200"
   },
   {
@@ -95,7 +85,6 @@
     "cohort": "June 11, 2026",
     "landing": 3500,
     "mdr": 4,
-    "net": 3360,
     "thriveCode": "THRIVE200"
   },
   {
@@ -104,7 +93,6 @@
     "cohort": "June 23, 2026",
     "landing": 6000,
     "mdr": 8,
-    "net": 5520,
     "thriveCode": "THRIVE200"
   },
   {
@@ -113,7 +101,6 @@
     "cohort": "August 13, 2026",
     "landing": 2650,
     "mdr": 0,
-    "net": 2650,
     "thriveCode": ""
   },
   {
@@ -122,7 +109,6 @@
     "cohort": "June 25, 2026",
     "landing": 7500,
     "mdr": 8,
-    "net": 6900,
     "thriveCode": "THRIVE200"
   }
 ]
