@@ -2,18 +2,127 @@
   {
     "id": "mit-aip",
     "wrike": "MO-AIP",
-    "cohort": "August 15, 2026",
+    "cohort": "June 25, 2026",
     "landing": 3150,
     "mdr": 8,
     "net": 2898,
     "thriveCode": "THRIVE200"
   },
   {
-    "id": "mit-aisl",
+    "id": "mit-lai",
     "wrike": "MO-LAI",
-    "cohort": "August 12, 2026",
+    "cohort": "June 23, 2026",
     "landing": 7750,
     "mdr": 8,
-    "net": 7130
+    "net": 7130,
+    "thriveCode": "THRIVE200"
+  },
+  {
+    "id": "mit-aipl",
+    "wrike": "MO-AIPL",
+    "cohort": "June 23, 2026",
+    "landing": 9450,
+    "mdr": 8,
+    "net": 8694,
+    "thriveCode": "THRIVE200"
+  },
+  {
+    "id": "mit-ailhc",
+    "wrike": "MO-AILHC",
+    "cohort": "June 25, 2026",
+    "landing": 8950,
+    "mdr": 8,
+    "net": 8234,
+    "thriveCode": "THRIVE200"
+  },
+  {
+    "id": "mit-gai",
+    "wrike": "MO-GAI",
+    "cohort": "September 23, 2026",
+    "landing": 3100,
+    "mdr": 15,
+    "net": 2635,
+    "thriveCode": "THRIVE200"
+  },
+  {
+    "id": "mit-airo",
+    "wrike": "MO-AIRO",
+    "cohort": "August 20, 2026",
+    "landing": 4950,
+    "mdr": 10,
+    "net": 4455,
+    "thriveCode": "THRIVE200"
+  },
+  {
+    "id": "hms-clle",
+    "wrike": "HMS-CLLE",
+    "cohort": "August 6, 2026",
+    "landing": 7550,
+    "mdr": 11,
+    "net": 6719,
+    "thriveCode": "THRIVE200"
+  },
+  {
+    "id": "hms-cdlp",
+    "wrike": "HMS-CDLP",
+    "cohort": "June 25, 2026",
+    "landing": 6000,
+    "mdr": 8,
+    "net": 5520,
+    "thriveCode": "THRIVE200"
+  },
+  {
+    "id": "jhu-boh",
+    "wrike": "JHCB-BOH",
+    "cohort": "June 25, 2026",
+    "landing": 4795,
+    "mdr": 8,
+    "net": 4411,
+    "thriveCode": "THRIVE200"
+  },
+  {
+    "id": "imp-ldt",
+    "wrike": "IMP-LDT",
+    "cohort": "June 25, 2026",
+    "landing": 3680,
+    "mdr": 8,
+    "net": 3386,
+    "thriveCode": "THRIVE200"
+  },
+  {
+    "id": "imp-mdp",
+    "wrike": "IMP-MDP",
+    "cohort": "June 11, 2026",
+    "landing": 3500,
+    "mdr": 4,
+    "net": 3360,
+    "thriveCode": "THRIVE200"
+  },
+  {
+    "id": "wh-lmdp",
+    "wrike": "WH-LMDP",
+    "cohort": "June 23, 2026",
+    "landing": 6000,
+    "mdr": 8,
+    "net": 5520,
+    "thriveCode": "THRIVE200"
+  },
+  {
+    "id": "wh-lhpt",
+    "wrike": "WH-LHPT",
+    "cohort": "August 13, 2026",
+    "landing": 2650,
+    "mdr": 0,
+    "net": 2650,
+    "thriveCode": ""
+  },
+  {
+    "id": "klg-mlp",
+    "wrike": "KLG-MLP",
+    "cohort": "June 25, 2026",
+    "landing": 7500,
+    "mdr": 8,
+    "net": 6900,
+    "thriveCode": "THRIVE200"
   }
 ]
