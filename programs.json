@@ -9,7 +9,7 @@
     "thriveCode": "THRIVE200"
   },
   {
-    "id": "mit-lai",
+    "id": "mit-aisl",
     "wrike": "MO-LAI",
     "cohort": "June 23, 2026",
     "landing": 7750,
@@ -40,9 +40,9 @@
     "wrike": "MO-GAI",
     "cohort": "September 23, 2026",
     "landing": 3100,
-    "mdr": 10,
+    "mdr": 15,
     "net": 2635,
-    "thriveCode": "NA"
+    "thriveCode": "THRIVE200"
   },
   {
     "id": "mit-airo",
